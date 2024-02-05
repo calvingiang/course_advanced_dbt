@@ -9,11 +9,11 @@ The unique identifier of the Bingeflix user. A user is created when user sucessf
 {% enddocs %}
 
 {% docs bingeflix_column_created_at %}
-The timestamp of when a user hits sign up with valid email. 
+The timestamp of when a user hits sign up with valid email.
 {% enddocs %}
-        
+
 {% docs bingeflix_column_phone_number %}
-The phone number of user. 
+The phone number of user.
 {% enddocs %}
 
 

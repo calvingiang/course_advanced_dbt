@@ -21,7 +21,7 @@ models:
 
       - name: user_id
         data_type: number
-        description: ID for user      
+        description: ID for user
 
     ## Timestamps
       - name: created_at
